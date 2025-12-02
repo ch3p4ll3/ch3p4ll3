@@ -1,5 +1,5 @@
 # 💫 About Me:
-23yo Italian boy who likes do things
+24yo Italian boy who likes do things
 
 
 # 💻 Tech Stack:
