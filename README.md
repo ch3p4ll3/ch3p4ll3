@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">Databases</p>
+<h3 align="left">Databases</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Tools</p>
+<h3 align="left">Tools</h3>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<h3 align="left">Frontend</h3>
 
 ###
 
