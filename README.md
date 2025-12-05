@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mattia and I'm a backend developer who spends most of my time building APIs, automating things, and arguing with databases.  <br>Sometimes I also create *questionable* Angular frontend pages — but hey, they work… usually. 😅<br><br>Besides coding, I'm passionate about electronics and love building projects with embedded devices like ESP32, Arduino, and Raspberry Pi.</p>
+<p align="left">My name is Mattia and I'm a backend developer who spends most of my time building APIs, automating things, and arguing with databases.  <br>Sometimes I also create questionable Angular frontend pages — but hey, they work… usually. 😅<br><br>Besides coding, I'm passionate about electronics and love building projects with embedded devices like ESP32, Arduino, and Raspberry Pi.</p>
 
 ###
 
